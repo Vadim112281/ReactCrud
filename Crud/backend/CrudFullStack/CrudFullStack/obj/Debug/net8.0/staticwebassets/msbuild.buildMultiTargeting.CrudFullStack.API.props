@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudFullStack.API.props" />
+</Project>
